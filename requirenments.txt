@@ -1,0 +1,3 @@
+tkwriter 1.0.0
+click
+CurrencyConverter
